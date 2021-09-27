@@ -1,4 +1,4 @@
-I have uploaded all of my code
+I have uploaded everything to this GitHub repository: https://github.com/dlamothe7/Supervised_Learning
 
 My two datasets are included as .csv's titled titanic.csv and wheat-seeds.csv
 
